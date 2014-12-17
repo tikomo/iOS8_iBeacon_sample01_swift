@@ -14,6 +14,7 @@
 		E1BA630B1A4168DD003E3C86 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1BA630A1A4168DD003E3C86 /* Images.xcassets */; };
 		E1BA630E1A4168DD003E3C86 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E1BA630C1A4168DD003E3C86 /* LaunchScreen.xib */; };
 		E1BA631A1A4168DD003E3C86 /* iOS8_iBeaconSwiftTest01Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BA63191A4168DD003E3C86 /* iOS8_iBeaconSwiftTest01Tests.swift */; };
+		E1BA63241A41709C003E3C86 /* readme.txt in Resources */ = {isa = PBXBuildFile; fileRef = E1BA63231A41709C003E3C86 /* readme.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		E1BA63131A4168DD003E3C86 /* iOS8_iBeaconSwiftTest01Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOS8_iBeaconSwiftTest01Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1BA63181A4168DD003E3C86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E1BA63191A4168DD003E3C86 /* iOS8_iBeaconSwiftTest01Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS8_iBeaconSwiftTest01Tests.swift; sourceTree = "<group>"; };
+		E1BA63231A41709C003E3C86 /* readme.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = readme.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		E1BA62F21A4168DD003E3C86 = {
 			isa = PBXGroup;
 			children = (
+				E1BA63231A41709C003E3C86 /* readme.txt */,
 				E1BA62FD1A4168DD003E3C86 /* iOS8_iBeaconSwiftTest01 */,
 				E1BA63161A4168DD003E3C86 /* iOS8_iBeaconSwiftTest01Tests */,
 				E1BA62FC1A4168DD003E3C86 /* Products */,
@@ -197,6 +200,7 @@
 			files = (
 				E1BA63091A4168DD003E3C86 /* Main.storyboard in Resources */,
 				E1BA630E1A4168DD003E3C86 /* LaunchScreen.xib in Resources */,
+				E1BA63241A41709C003E3C86 /* readme.txt in Resources */,
 				E1BA630B1A4168DD003E3C86 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
